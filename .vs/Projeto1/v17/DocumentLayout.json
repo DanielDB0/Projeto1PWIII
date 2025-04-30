@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\Projeto1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2461E70F-BED0-4B04-8AB8-01335160801D}|Projeto1\\Projeto1.csproj|c:\\users\\3ds\\desktop\\projeto1\\projeto1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2461E70F-BED0-4B04-8AB8-01335160801D}|Projeto1\\Projeto1.csproj|solutionrelative:projeto1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto1\\Projeto1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\Projeto1\\Projeto1\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Projeto1\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:29:27.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
