@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3ds\\Desktop\\Projeto1\\Projeto1\\Projeto1.csproj": {}
+    "C:\\Users\\3ds\\Desktop\\Projeto1PWIII\\Projeto1\\Projeto1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3ds\\Desktop\\Projeto1\\Projeto1\\Projeto1.csproj": {
+    "C:\\Users\\3ds\\Desktop\\Projeto1PWIII\\Projeto1\\Projeto1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3ds\\Desktop\\Projeto1\\Projeto1\\Projeto1.csproj",
+        "projectUniqueName": "C:\\Users\\3ds\\Desktop\\Projeto1PWIII\\Projeto1\\Projeto1.csproj",
         "projectName": "Projeto1",
-        "projectPath": "C:\\Users\\3ds\\Desktop\\Projeto1\\Projeto1\\Projeto1.csproj",
+        "projectPath": "C:\\Users\\3ds\\Desktop\\Projeto1PWIII\\Projeto1\\Projeto1.csproj",
         "packagesPath": "C:\\Users\\3ds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3ds\\Desktop\\Projeto1\\Projeto1\\obj\\",
+        "outputPath": "C:\\Users\\3ds\\Desktop\\Projeto1PWIII\\Projeto1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3ds\\AppData\\Roaming\\NuGet\\NuGet.Config",
